@@ -10,6 +10,7 @@ sites:
     url: http://dono-03.danbot.host:2521
 
 status-website:
+  theme: light
   baseUrl: /upptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   themeUrl: https://spreadsheets600.is-a.dev/Uptime-Monitor/theme.css
@@ -19,6 +20,3 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/spreadsheets600
-
-workflowSchedule:
-  uptime: "*/15 * * * *"
