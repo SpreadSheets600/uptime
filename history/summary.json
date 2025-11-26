@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spreadsheet600.github.io.ico",
     "slug": "portfolio-personal-website",
     "status": "down",
-    "uptime": "8.63%",
-    "uptimeDay": "8.63%",
-    "uptimeWeek": "8.63%",
-    "uptimeMonth": "8.63%",
-    "uptimeYear": "8.63%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 111,
     "timeDay": 111,
     "timeWeek": 111,
@@ -43,16 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dono-03.danbot.host.ico",
     "slug": "pora-hobe-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "4.74%",
+    "uptimeDay": "4.74%",
+    "uptimeWeek": "4.74%",
+    "uptimeMonth": "4.74%",
+    "uptimeYear": "4.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   }
 ]
