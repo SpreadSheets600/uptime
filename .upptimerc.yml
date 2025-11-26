@@ -13,7 +13,7 @@ status-website:
   theme: light
   baseUrl: /Uptime-Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  themeUrl: https://spreadsheets600.is-a.dev/Uptime-Monitor/theme.css
+  themeUrl: https://spreadsheets600.is-a.dev/Uptime-Monitor/assets/theme.css
   name: Upptime Monitor
   introTitle: My Services And Website Uptime Monitor
   introMessage: Powered By [Upptime](https://upptime.js.org)
