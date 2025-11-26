@@ -11,7 +11,7 @@ sites:
 
 status-website:
   theme: light
-  baseUrl: /upptime-monitor
+  cname: https://spreadsheets600.is-a.dev/Uptime-Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   themeUrl: https://spreadsheets600.is-a.dev/Uptime-Monitor/theme.css
   name: Upptime Monitor
