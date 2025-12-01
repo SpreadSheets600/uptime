@@ -76,19 +76,19 @@
     "url": "https://frontpage-generator-e5n7.onrender.com/frontpages",
     "icon": "https://icons.duckduckgo.com/ip3/frontpage-generator-e5n7.onrender.com.ico",
     "slug": "frontpage-website",
-    "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "94.91%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "status": "up",
+    "uptime": "91.57%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "91.57%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "91.57%",
+    "time": 275,
+    "timeDay": 275,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-12-01": 27
+      "2025-12-01": 46
     }
   }
 ]
