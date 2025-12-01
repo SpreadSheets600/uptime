@@ -10,7 +10,8 @@ sites:
     url: https://spreadsheets600.is-a.dev/
   - name: PoraHobe website
     url: http://dono-03.danbot.host:2521
-
+  - name: Frontpage Website
+    url: https://frontpage-generator-e5n7.onrender.com/frontpages
 status-website:
   theme: light
   baseUrl: /Uptime-Monitor
